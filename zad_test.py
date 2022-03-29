@@ -4,5 +4,5 @@ for liczba in range(0,101):
     elif liczba % 5 == 0:
         print('Buzz')
     elif liczba % 3 == 0:
-        print('Buzz')
+        print('Fuzz')
     else: print(liczba)
