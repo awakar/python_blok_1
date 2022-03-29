@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f8ddd4b-8faf-4581-af2a-df5040a3fe55" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/zad_domowe_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8feb9660-ffed-41f0-ab9f-982cabc102b3" name="Changes" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-03-28_15_50__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-03-28_15_50__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zad_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/zad_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -25,12 +17,11 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="270qv0lFpVCpIBNOvwh8Yvgny29" />
+  <component name="ProjectId" id="273UEV2W1owbFk4JdyAOwjhJrbI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,8 +30,6 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="file.status.colors" />
   </component>
   <component name="RunManager">
     <configuration name="zad_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -73,18 +62,18 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3f8ddd4b-8faf-4581-af2a-df5040a3fe55" name="Changes" comment="" />
-      <created>1648467579108</created>
+      <changelist id="8feb9660-ffed-41f0-ab9f-982cabc102b3" name="Changes" comment="" />
+      <created>1648548156443</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1648467579108</updated>
+      <updated>1648548156443</updated>
     </task>
     <task id="LOCAL-00001" summary="test">
-      <created>1648475525972</created>
+      <created>1648548257313</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1648475525972</updated>
+      <updated>1648548257313</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
