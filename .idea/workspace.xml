@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8feb9660-ffed-41f0-ab9f-982cabc102b3" name="Changes" comment="trójką test trzy razy and">
-      <change afterPath="$PROJECT_DIR$/zad_1.8_aw.py" afterDir="false" />
+<<<<<<<<< Temporary merge branch 1
+    <list default="true" id="8feb9660-ffed-41f0-ab9f-982cabc102b3" name="Changes" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-03-28_15_50__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-03-28_15_50__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zad_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/zad_test.py" afterDir="false" />
+=========
+    <list default="true" id="8feb9660-ffed-41f0-ab9f-982cabc102b3" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/zad_1.5_aw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>>>> Temporary merge branch 2
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -28,9 +28,13 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="273UEV2W1owbFk4JdyAOwjhJrbI" />
+<<<<<<<<< Temporary merge branch 1
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=========
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+>>>>>>>>> Temporary merge branch 2
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,7 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.zad_1.8_aw">
+  <component name="RunManager" selected="Python.zad_1.5_aw">
     <configuration name="zad_1.5_aw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_blok_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -53,27 +57,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zad_1.5_aw.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="zad_1.8_aw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_blok_1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zad_1.8_aw.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +88,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.zad_1.8_aw" />
         <item itemvalue="Python.zad_1.5_aw" />
         <item itemvalue="Python.zad_test" />
       </list>
@@ -134,14 +116,7 @@
       <option name="project" value="LOCAL" />
       <updated>1648597312453</updated>
     </task>
-    <task id="LOCAL-00003" summary="trójką test trzy razy and">
-      <created>1648639081901</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1648639081901</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,7 +133,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <MESSAGE value="trójką test trzy razy and" />
-    <option name="LAST_COMMIT_MESSAGE" value="trójką test trzy razy and" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
 </project>
