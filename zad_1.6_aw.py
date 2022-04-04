@@ -6,7 +6,7 @@ if wiek < 7:
 elif wiek < 18:
     cena_biletu = 2.28
 elif wiek < 65:
-    cena_blietu = 3.8
+    cena_biletu = 3.8
 else:
     cena_biletu = 1.9
 
