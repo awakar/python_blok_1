@@ -1,6 +1,6 @@
 import random
 
-licz_a = random.randint(1, 99)
+licz_a = random.randint(1, 999)
 licznik = 0
 while True:
     liczba_zgad = int(input('Podaj liczbę: '))
