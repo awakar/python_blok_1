@@ -12,7 +12,7 @@ print(f'do zapłaty  {zapl_ban+zapl_ziemn} zł')
 
 if zapl_ban > zapl_ziemn:
     print('banany były droższe')
-elif ziemniaki > banany:
+elif zapl_ban < zapl_ziemn:
     print("ziemniaki były droższe")
 else:
-    print("kupujesz tyle samo za oba")
+    print("placisz tyle samo za oba produkty")
